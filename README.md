@@ -6,6 +6,7 @@ These are the exercise files used for [Raspberry Pi Essential Training](https://
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/raspberry-pi-essential-training-in-singapore.html
+https://www.tertiarycourses.com.my/raspberry-pi-essential-training-in-malaysia.html
 
 <p><strong>Module 1: Get Started</strong></p>
 <ul>
